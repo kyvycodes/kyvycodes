@@ -24,10 +24,10 @@
 
 
 🔭 I’m currently working on
-☞ Movie searching fullstack web application 
+☞ New Portfolio using React, Swiper js and Smooth Scrollbar
 
-🌱 I’m currently learning
-☞ Kaboom 
+<!-- 🌱 I’m currently learning
+☞ Kaboom  -->
 
 👯 I’m looking to collaborate on
 ☞ Any games as a side project 
