@@ -1,5 +1,5 @@
 <p align="center">
-<img width='700px' height='170px' src="https://media.giphy.com/media/aBC2ZwQZ7GzdLyBYm5/giphy.gif?cid=790b7611ec0a81bd96e5969e4a19e3efa0c99b73072466c1&rid=giphy.gif&ct=g" 
+<img width='700px' height='170px' src="https://media.giphy.com/media/j9UUUwiUtjtYj8a2Bs/giphy.gif?cid=790b7611c54f240cc61cfdcad690302d9408f3dc9ea070fa&rid=giphy.gif&ct=g" 
  </p> 
 
 <strong><p align="center">   A software engineer with a passion for teaching. I am dedicated to fine-tuning my skills through mentorship from more seasoned developers and tirelessly working toward self improvement by learning all I can on my own. I became an engineer to help shape the global tech landscape and a build bridge between the world I came from and the innovations I believe our future world will require. <br/>
