@@ -22,7 +22,7 @@
 ▶︎ Maintaining an end user focus <br/>
 
 ---
-🌸  <strong>“Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.” 🌸 
+<strong> “Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.” 🌸 
 <em><p> - Marie Curie, Two-Time Nobel Prize Winner </p></em> </strong>
 <br>
 
