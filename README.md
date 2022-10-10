@@ -3,10 +3,19 @@
  </p> 
 
 
-<p align="center"> Open, inventive, excited, creator. Welcome ✨  </p></strong>
+<p align="center">   Welcome ✨  </p></strong>
 <br>
 
+
+
+<!--
+
+
 ---
+
+<p align="center"> Open, inventive, excited, creator. Welcome ✨  </p></strong>
+
+
 <strong>💻 Technical Skills: </strong>
 
 ▶︎ Proficient: JavaScript, Express, HTML, CSS, Sequelize, React, Redux <br/>
@@ -27,7 +36,9 @@
 <br>
 
 
-<!--
+
+
+
 **kyvycodes/kyvycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <strong><p align="center"> Strategic, organized engineer with experience leading high-performing and energetic teams. I am dedicated to fine-tuning my skills through mentorship from more seasoned developers and tirelessly working toward self-improvement by learning all I can on my own. I became an engineer to help shape the global tech landscape and build a bridge between the world I came from and the innovations I believe our future world will require. <br/>
